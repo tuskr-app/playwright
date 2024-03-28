@@ -1,0 +1,8 @@
+{
+  "defaults": {
+    "name": "{{classname}} > {{name}}",
+    "testSuite": "Suite 1",
+    "testSuiteSection": "Section 1",
+    "automationId": "{{name}}"
+  }
+}
