@@ -1,13 +1,4 @@
 {
-  "finally": {
-    "name ~ link": {
-      "testSuite": "Suite 2",
-      "testSuiteSection": "Section 2",
-      "customFields": {
-        "priority": "High"
-      }
-    }
-  },
   "defaults": {
     "name": "{{classname}} > {{name}}",
     "testSuite": "Suite 1",
@@ -15,6 +6,13 @@
     "automationId": "{{name}}",
     "customFields": {
       "priority": "Low"
+    }
+  },
+  "name ~ link": {
+    "testSuite": "Suite 2",
+    "testSuiteSection": "Section 2",
+    "customFields": {
+      "priority": "High"
     }
   }
 }
